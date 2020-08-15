@@ -17,10 +17,10 @@ Answer:
 <a href="https://trello.com/b/jhrkJRKm/teachers-helper">Trello Board</a>
 
 ## WireFrames
-<img src="/wireframeOne.png"></img>
-<img src="/public/wireframeTwo.png"></img>
-<img src="/public/wireframeThree.png"></img>
-<img src="/public/wireframeFour.png"></img>
+<img src="/wireframeOne.jpg"></img>
+<img src="/public/wireframeTwo.jpg"></img>
+<img src="/public/wireframeThree.jpg"></img>
+<img src="/public/wireframeFour.jpg"></img>
 
 
 
