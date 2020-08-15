@@ -1,4 +1,4 @@
-## education.data.creation
+## 👩‍🏫👨‍🏫 teacher's helper 🐷🐸🐶
   * By Caitlin Smith 
   * Full stack NRG web application using Nodejs, React and GraphQL
   * Teachers everywhere are going back to school virtually or in a hybrid model where they need to provide instruction to students both virtually AND in person! Can't be in two places at once?! Don't have time to teach lessons in advance AND teach live lessons? Teacher's Helper is here to save the day! Simply create an assignment, type in directions, choose a Teacher's Helper and let THEM teach the lesson for you!
