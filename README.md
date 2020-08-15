@@ -14,10 +14,10 @@ Answer:
   * Honestly, I have been reading about GraphQL and I am still confused about how to implement it, so I think the learning curve about how to use GraphQl to query my backend may be steep. I also know that MVP for this project will not have auth unless I magically gain SUPERSPEED coding powers... so that is something I will want to add on post-cohort. I also chose this project because I want to spend a lot of time on fun CSS features because that is another thing that I want to work on. I am hoping to implement some animation and hover features, etc.!
 
 ## Planning
-<a href="https://trello.com/b/jhrkJRKm/teachers-helper">Trello Board></a>
+<a href="https://trello.com/b/jhrkJRKm/teachers-helper">Trello Board</a>
 
 ## WireFrames
-<img src="/public/wireframeOne.png"></img>
+<img src="/wireframeOne.png"></img>
 <img src="/public/wireframeTwo.png"></img>
 <img src="/public/wireframeThree.png"></img>
 <img src="/public/wireframeFour.png"></img>
