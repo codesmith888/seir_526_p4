@@ -1,39 +1,26 @@
-# Project 4
-For your fourth project you will work, either on your own or in small teams, to build a proof of concept using a new techonology or library that we have not explored already in class. 
-
-The intention of this project is that you either 1. try out a new technology you've been interested in using, but that we haven't used in class or 2. have an idea for a post cohort project which you can create an MVP of a feature for or an MVP for the project itself during the window of our P4.
-
-When trying to scope your P4 think to how much you were able to accomplish during the hackathon, and keep your ideas to projects which include tasks that could fit that scope, plus some added features. 
-
-*What does a non-passing P4 look like?*
-- If you do not make a meaninful attempt at trying and implementing a new technology
-- If you do not build anything substantial
-- If you do not put in meaningful work/git commits all six days of the project (including the weekend)
-
-
-## Ideas for Technologies to Use:
-- Vue.js (frontend framework). 
-- GraphQL (frontend querying language. Would recommend using with Hasura so that you don't have to take on Apollo and Prisma breaking change errors). 
-- Unity (in C#)
-- Integrating a Stripe frontend and backup to build a test level functional ecommmerce site
-- D3.js (a data visualization javascript library)
-- React-Bootstrap-Table or another React Table Library to create dynamic tables based on a database you create and seed
-
-## Pitch Guidelines
-Your P4 Project Pitches will be submitted via pull requets on this repo. *Fork and clone this repo. Make a new file in this repo called `[YOUR NAME]-p4-pitch.md`, Write your markdown in that file. Push up, and submit a pull request to the original repo to submit*. The instructional staff will review your submissions and add feedback/close pull requests. 
-
-*Format for pitch markdown:*
-* Name of app
-* Your name/team members
-* New tech you plan on using
+## education.data.creation
+  * By Caitlin Smith 
+  * Full stack NRG web application using Nodejs, React and GraphQL
+  * Teachers everywhere are going back to school virtually or in a hybrid model where they need to provide instruction to students both virtually AND in person! Can't be in two places at once?! Don't have time to teach lessons in advance AND teach live lessons? Teacher's Helper is here to save the day! Simply create an assignment, type in directions, choose a Teacher's Helper and let THEM teach the lesson for you!
 
 Answer: 
 1. How do you plan on learning/implementing this new technology?
+  * I have found an edX course online and have already started the introduction lessons. I will not be able to finish the course before P4 is due, but I want to get through the introduction lessons and then read through the documentation. 
 2. What is your goal with this project?
+  * I want to fully create this app with auth post-cohort. This is something I want to use in my own classroom and I think there is a need for this service, particularly with many schools doing fully-remote learning and looking at a year with hybrid learning at least. 
 3. Who is the user for your app?
+  * Users are teachers, tutors, and educators everywhere! Anyone who needs to be able to give step by step directions but doesn't have the time or energy to film lessons before every lesson! 
 4. Any potential roadblocks you think you might run into?
+  * Honestly, I have been reading about GraphQL and I am still confused about how to implement it, so I think the learning curve about how to use GraphQl to query my backend may be steep. I also know that MVP for this project will not have auth unless I magically gain SUPERSPEED coding powers... so that is something I will want to add on post-cohort. I also chose this project because I want to spend a lot of time on fun CSS features because that is another thing that I want to work on. I am hoping to implement some animation and hover features, etc.!
 
-Include Graphics or Links to:
-* Breakdown individual tasks and what you plan on working on day by day (in a Trello board or some other project planning tool/format). 
-* Wireframes for app
-* User flow for app
+## Planning
+<a href="https://trello.com/b/jhrkJRKm/teachers-helper">Trello Board></a>
+
+## WireFrames
+<img src="/public/wireframeOne.png"></img>
+<img src="/public/wireframeTwo.png"></img>
+<img src="/public/wireframeThree.png"></img>
+<img src="/public/wireframeFour.png"></img>
+
+
+
